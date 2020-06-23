@@ -1,4 +1,4 @@
-#[https://react-quiz-b36cf.web.app/](ссылка)
+# [https://react-quiz-b36cf.web.app/](ссылка)
 
 ### Установка и запуск
 
@@ -7,8 +7,8 @@
 npm install
 
 # Запускаем приложение для разработки.
-npm run dev
+npm run start
 
 # Запускаем приложение в production-режиме.
-npm run start
+npm run build
 ```
